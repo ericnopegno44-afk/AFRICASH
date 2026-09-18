@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="fr"><head><link rel="stylesheet" href="style.css"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AFRICASH — Affiliation & Récompenses</title><link rel="stylesheet" href="assets/style.css"></head>
 <body>
 <header><div class="brand">AFRICASH</div><nav><a href="login.html">Connexion</a><a class="navbtn" href="register.html">Créer un compte</a></nav></header>

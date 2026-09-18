@@ -1,0 +1,7 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Retrait AFRICASH</title><link rel="stylesheet" href="assets/style.css"></head>
+<body><main class="form"><div class="brand">AFRICASH</div><h1>Demande de retrait</h1><div class="amount">Minimum : 2 000 FCFA</div>
+<form action="backend/withdraw.php" method="post"><input type="number" name="amount" min="2000" placeholder="Montant" required>
+<select name="provider" required><option value="">Mode de retrait</option><option>Mixx by Yas</option><option>Moov Money Flooz</option></select>
+<input name="wallet" placeholder="Numéro du portefeuille" required><button class="btn">Envoyer la demande</button></form>
+<p class="note">Le paiement dépend de la validation du solde et des conditions du prestataire.</p></main></body></html>
